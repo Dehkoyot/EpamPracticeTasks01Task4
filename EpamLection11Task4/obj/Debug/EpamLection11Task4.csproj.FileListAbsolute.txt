@@ -1,0 +1,6 @@
+c:\users\rokaff\documents\visual studio 2017\Projects\EpamLection11Task4\EpamLection11Task4\bin\Debug\EpamLection11Task4.exe.config
+c:\users\rokaff\documents\visual studio 2017\Projects\EpamLection11Task4\EpamLection11Task4\bin\Debug\EpamLection11Task4.exe
+c:\users\rokaff\documents\visual studio 2017\Projects\EpamLection11Task4\EpamLection11Task4\bin\Debug\EpamLection11Task4.pdb
+c:\users\rokaff\documents\visual studio 2017\Projects\EpamLection11Task4\EpamLection11Task4\obj\Debug\EpamLection11Task4.csprojResolveAssemblyReference.cache
+c:\users\rokaff\documents\visual studio 2017\Projects\EpamLection11Task4\EpamLection11Task4\obj\Debug\EpamLection11Task4.exe
+c:\users\rokaff\documents\visual studio 2017\Projects\EpamLection11Task4\EpamLection11Task4\obj\Debug\EpamLection11Task4.pdb
